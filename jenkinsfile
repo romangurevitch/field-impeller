@@ -1,0 +1,17 @@
+node{
+    git 'https://github.com/romangurevitch/gradle-demo.git'
+
+    def gradleHome = tool 'G2'
+    env.PATH = "${gradleHome}/bin:${env.PATH}"
+
+    stage 'Build'
+    sh 'gradle clean build'
+
+    stage 'Test'
+    sh 'gradle test'
+
+    stage 'Publish'
+    sh 'gradle artifactoryPublish'
+
+    env.BUILD_PROPS = "build.name=${env.JOB_NAME};build.number=${env.BUILD_ID}"
+}

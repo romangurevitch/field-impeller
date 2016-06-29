@@ -1,0 +1,310 @@
+{
+  "properties" : {
+    "java.vendor" : "Oracle Corporation",
+    "buildInfo.env.USER" : "romang",
+    "sun.java.launcher" : "SUN_STANDARD",
+    "buildInfo.env.SCRIPTS" : "//home/romang/Work/Scripts",
+    "sun.management.compiler" : "HotSpot 64-Bit Tiered Compilers",
+    "buildInfo.env.KDE_SESSION_VERSION" : "4",
+    "buildInfo.env.GDM_LANG" : "en_US.UTF-8",
+    "buildInfo.env.KDE_MULTIHEAD" : "false",
+    "buildInfo.env.XDG_DATA_DIRS" : "/usr/share/kde-settings/kde-profile/default/share:/usr/local/share:/usr/share",
+    "os.name" : "Linux",
+    "buildInfo.env.PATH" : "/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/home/romang/.local/bin:/home/romang/bin",
+    "buildInfo.env.LOGNAME" : "romang",
+    "sun.boot.class.path" : "/usr/lib/jdk1.8.0_74/jre/lib/resources.jar:/usr/lib/jdk1.8.0_74/jre/lib/rt.jar:/usr/lib/jdk1.8.0_74/jre/lib/sunrsasign.jar:/usr/lib/jdk1.8.0_74/jre/lib/jsse.jar:/usr/lib/jdk1.8.0_74/jre/lib/jce.jar:/usr/lib/jdk1.8.0_74/jre/lib/charsets.jar:/usr/lib/jdk1.8.0_74/jre/lib/jfr.jar:/usr/lib/jdk1.8.0_74/jre/classes",
+    "buildInfo.env.GDMSESSION" : "1-kde-plasma-standard",
+    "buildInfo.env.KONSOLE_PROFILE_NAME" : "Shell",
+    "buildInfo.env.QT_GRAPHICSSYSTEM_CHECKED" : "1",
+    "java.vm.specification.vendor" : "Oracle Corporation",
+    "buildInfo.env.XDG_SEAT" : "seat0",
+    "java.runtime.version" : "1.8.0_74-b02",
+    "buildInfo.env.WORK" : "/home/romang/Work",
+    "buildInfo.env.JENKINS_ARTIFACTORY_HPI" : "/home/romang/.m2/repository/org/jenkins-ci/plugins/artifactory/2.5.1-SNAPSHOT/artifactory-2.5.1-SNAPSHOT.hpi",
+    "buildInfo.env.XDG_SESSION_ID" : "1",
+    "user.name" : "romang",
+    "buildInfo.env.SSH_AGENT_PID" : "3049",
+    "buildInfo.env.TOOLS" : "/home/romang/Work/Tools",
+    "buildInfo.env.KONSOLE_DBUS_SERVICE" : ":1.60",
+    "buildInfo.env.LS_COLORS" : "rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:",
+    "buildInfo.env.KDE_FULL_SESSION" : "true",
+    "buildInfo.env.XCURSOR_THEME" : "Adwaita",
+    "user.language" : "en",
+    "buildInfo.env.WINDOWPATH" : "1",
+    "buildInfo.env.JENKINS_HOME" : "/home/romang/.jenkins",
+    "sun.boot.library.path" : "/usr/lib/jdk1.8.0_74/jre/lib/amd64",
+    "buildInfo.env.XMODIFIERS" : "@im=none",
+    "buildInfo.env.CATALINA_HOME" : "/home/romang/Work/Tools/Jenkins/apache-tomcat-7.0.68",
+    "buildInfo.env.M2_HOME" : "/home/romang/Work/Tools/Maven/apache-maven-3.3.9",
+    "buildInfo.env.GS_LIB" : "",
+    "buildInfo.env.USERNAME" : "romang",
+    "buildInfo.env.IMSETTINGS_MODULE" : "none",
+    "buildInfo.env.GTK_RC_FILES" : "/etc/gtk/gtkrc:/home/romang/.gtkrc:/home/romang/.kde/share/config/gtkrc",
+    "java.version" : "1.8.0_74",
+    "user.timezone" : "Asia/Jerusalem",
+    "sun.arch.data.model" : "64",
+    "java.endorsed.dirs" : "/usr/lib/jdk1.8.0_74/jre/lib/endorsed",
+    "sun.cpu.isalist" : "",
+    "sun.jnu.encoding" : "UTF-8",
+    "file.encoding.pkg" : "sun.io",
+    "buildInfo.env.XFILESEARCHPATH" : "/usr/dt/app-defaults/%L/Dt",
+    "buildInfo.env.TERM" : "xterm-256color",
+    "file.separator" : "/",
+    "java.specification.name" : "Java Platform API Specification",
+    "java.class.version" : "52.0",
+    "buildInfo.env.DEVDIR" : "/home/romang/Work/Devdir",
+    "buildInfo.env.LESSOPEN" : "||/usr/bin/lesspipe.sh %s",
+    "user.country" : "US",
+    "java.home" : "/usr/lib/jdk1.8.0_74/jre",
+    "java.vm.info" : "mixed mode",
+    "os.version" : "3.10.0-327.18.2.el7.x86_64",
+    "path.separator" : ":",
+    "buildInfo.env.XDG_RUNTIME_DIR" : "/run/user/1000",
+    "java.vm.version" : "25.74-b02",
+    "buildInfo.env.DBUS_SESSION_BUS_ADDRESS" : "unix:abstract=/tmp/dbus-gbcjeDCJkZ,guid=29786fbe1c7175b45cc125ba575ff12d",
+    "buildInfo.env.test.adding.dynVar" : "Mon Jun 20 14:17:52 IDT 2016",
+    "user.variant" : "",
+    "java.awt.printerjob" : "sun.print.PSPrinterJob",
+    "sun.io.unicode.encoding" : "UnicodeLittle",
+    "awt.toolkit" : "sun.awt.X11.XToolkit",
+    "buildInfo.env.COLORFGBG" : "15;0",
+    "buildInfo.env.SHELL" : "/bin/bash",
+    "buildInfo.env.XAUTHORITY" : "/tmp/kde-romang/xauth-1000-_0",
+    "buildInfo.env.WIN" : "/media/sf_UbuntuShared",
+    "buildInfo.env.PWD" : "/home/romang/Work/Devdir/DEV1/project-examples/gradle-examples/4/gradle-example-publish",
+    "buildInfo.env.QTLIB" : "/usr/lib64/qt-3.3/lib",
+    "buildInfo.env.KDEDIRS" : "/usr",
+    "buildInfo.env.HOME" : "/home/romang",
+    "user.home" : "/home/romang",
+    "buildInfo.env.JAVA_HOME_8" : "/lib/jdk1.8.0_74/",
+    "buildInfo.env.JAVA_HOME_7" : "/lib/jdk1.7.0_79/",
+    "buildInfo.env.JAVA_HOME_6" : "/lib/jdk1.6.0_45/",
+    "java.specification.vendor" : "Oracle Corporation",
+    "org.gradle.jvmargs" : "-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5005",
+    "buildInfo.env.HISTSIZE" : "1000",
+    "java.vendor.url" : "http://java.oracle.com/",
+    "java.library.path" : "/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib",
+    "buildInfo.env.XDG_VTNR" : "1",
+    "java.vm.vendor" : "Oracle Corporation",
+    "java.runtime.name" : "Java(TM) SE Runtime Environment",
+    "java.class.path" : "/home/romang/Work/Tools/Gradle/gradle-2.14/lib/gradle-launcher-2.14.jar",
+    "sun.java.command" : "org.gradle.launcher.daemon.bootstrap.GradleDaemon 2.14",
+    "buildInfo.env.SHLVL" : "3",
+    "org.gradle.appname" : "gradle",
+    "buildInfo.env.QT_IM_MODULE" : "xim",
+    "java.vm.specification.name" : "Java Virtual Machine Specification",
+    "buildInfo.env.HOSTNAME" : "ip-10-0-2-15.eu-west-1.compute.internal",
+    "buildInfo.env.QTDIR" : "/usr/lib64/qt-3.3",
+    "java.vm.specification.version" : "1.8",
+    "buildInfo.env.OLDPWD" : "/home/romang/Work/Tools/Gradle/gradle-2.14",
+    "sun.cpu.endian" : "little",
+    "sun.os.patch.level" : "unknown",
+    "buildInfo.env.SSH_AUTH_SOCK" : "/tmp/ssh-nYKplXdT97Nn/agent.2896",
+    "buildInfo.env.ARTIFACTORY_HOME" : "/home/romang/Work/Tools/Artifactory/artifactory-pro-4.6.0",
+    "java.io.tmpdir" : "/tmp",
+    "buildInfo.env.MAIL" : "/var/spool/mail/romang",
+    "buildInfo.env.QT_PLUGIN_PATH" : "/usr/lib64/kde4/plugins:/usr/lib/kde4/plugins:/home/romang/.kde/lib64/kde4/plugins/:/usr/lib64/kde4/plugins/",
+    "buildInfo.env.PROFILEHOME" : "",
+    "java.vendor.url.bug" : "http://bugreport.sun.com/bugreport/",
+    "buildInfo.env.SESSION_MANAGER" : "local/unix:@/tmp/.ICE-unix/3140,unix/unix:/tmp/.ICE-unix/3140",
+    "jna.platform.library.path" : "/usr/lib64:/lib64",
+    "java.awt.graphicsenv" : "sun.awt.X11GraphicsEnvironment",
+    "os.arch" : "amd64",
+    "buildInfo.env.IMSETTINGS_INTEGRATE_DESKTOP" : "yes",
+    "java.ext.dirs" : "/usr/lib/jdk1.8.0_74/jre/lib/ext:/usr/java/packages/lib/ext",
+    "buildInfo.env.QTINC" : "/usr/lib64/qt-3.3/include",
+    "user.dir" : "/home/romang/Work/Devdir/DEV1/project-examples/gradle-examples/4/gradle-example-publish",
+    "buildInfo.env.GTK2_RC_FILES" : "/etc/gtk-2.0/gtkrc:/home/romang/.gtkrc-2.0:/home/romang/.gtkrc-2.0-kde4:/home/romang/.kde/share/config/gtkrc-2.0",
+    "buildInfo.env.DESKTOP_SESSION" : "1-kde-plasma-standard",
+    "buildInfo.env.KONSOLE_DBUS_WINDOW" : "/Windows/1",
+    "line.separator" : "\n",
+    "buildInfo.env.JAVA_HOME" : "/lib/jdk1.8.0_74/",
+    "buildInfo.env.SHELL_SESSION_ID" : "371ee9764850400080079ce3e0098d32",
+    "buildInfo.env.NLSPATH" : "/usr/dt/lib/nls/msg/%L/%N.cat",
+    "java.vm.name" : "Java HotSpot(TM) 64-Bit Server VM",
+    "buildInfo.env.XDG_MENU_PREFIX" : "kde4-",
+    "buildInfo.env.SSH_ASKPASS" : "/usr/bin/ksshaskpass",
+    "buildInfo.env.XDG_CURRENT_DESKTOP" : "KDE",
+    "buildInfo.env.XDG_SESSION_DESKTOP" : "1-kde-plasma-standard",
+    "buildInfo.env.DISPLAY" : ":0",
+    "file.encoding" : "UTF-8",
+    "buildInfo.env.KDE_SESSION_UID" : "1000",
+    "buildInfo.env.LANG" : "en_US.UTF-8",
+    "buildInfo.env.KONSOLE_DBUS_SESSION" : "/Sessions/14",
+    "buildInfo.env.HISTCONTROL" : "ignoreboth:ignoredups:erasedups",
+    "buildInfo.env.LANGUAGE" : "",
+    "buildInfo.env.WINDOWID" : "65011738",
+    "java.specification.version" : "1.8",
+    "buildInfo.env.GTK_IM_MODULE" : "gtk-im-context-simple"
+  },
+  "version" : "1.0.1",
+  "name" : "gradle-example-publish",
+  "number" : "1466421473277",
+  "type" : "GRADLE",
+  "buildAgent" : {
+    "name" : "Gradle",
+    "version" : "2.14"
+  },
+  "agent" : {
+    "name" : "Gradle",
+    "version" : "2.14"
+  },
+  "started" : "2016-06-20T14:17:51.860+0300",
+  "durationMillis" : 3725,
+  "principal" : "romang",
+  "artifactoryPrincipal" : "admin",
+  "artifactoryPluginVersion" : "Unknown",
+  "licenseControl" : {
+    "runChecks" : false,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : false,
+    "licenseViolationsRecipientsList" : "",
+    "scopesList" : ""
+  },
+  "buildRetention" : {
+    "count" : -1,
+    "deleteBuildArtifacts" : true,
+    "buildNumbersNotToBeDiscarded" : [ ]
+  },
+  "modules" : [ {
+    "id" : "org.jfrog.test.gradle.publish:webservice:1.0-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "jar",
+      "sha1" : "c3a782157ada49ab306e9eddc192b086ace4342f",
+      "md5" : "b55dc60a286fc2be3c8872b8cb702015",
+      "name" : "webservice-1.0-SNAPSHOT.jar"
+    }, {
+      "type" : "properties",
+      "sha1" : "cbae36a1e156cdf1cdb802e9803ca95446507373",
+      "md5" : "3f671140eec33497f6b24d2658b47056",
+      "name" : "webservice-1.0-SNAPSHOT.properties"
+    }, {
+      "type" : "pom",
+      "sha1" : "9b8391bcb9f2ffd88e22f208bb43876c2c0c1899",
+      "md5" : "8a2a9864361988a7f06c6c31c0d33e43",
+      "name" : "webservice-1.0-SNAPSHOT.pom"
+    } ],
+    "excludedArtifacts" : [ ],
+    "dependencies" : [ {
+      "type" : "jar",
+      "sha1" : "5a073963bbfb95e3da99524906973b7650530997",
+      "md5" : "49089d6cefd28b0367014d211ffa6c96",
+      "id" : "org.jfrog.test.gradle.publish:shared:1.0-SNAPSHOT",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "f951934aa5ae5a88d7e6dfaa6d32307d834a88be",
+      "md5" : "7b9216b608d550787bdf43a63d88bf3b",
+      "id" : "commons-collections:commons-collections:3.2",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "0ad6ae511ca4608a18317fcb19850fd113bb2ae8",
+      "md5" : "b0bf5f906af5a936992514ed087f1fa2",
+      "id" : "commons-io:commons-io:1.2",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "16313e02a793435009f1e458fa4af5d879f6fb11",
+      "md5" : "237a8e845441bad2e535c57d985c8204",
+      "id" : "commons-lang:commons-lang:2.4",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "14dd208c9077c462b813ed41c21c57f6a8153694",
+      "md5" : "4cad3d21b85b369c8b00dfb84e270e02",
+      "id" : "org.apache.wicket:wicket:1.3.7",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "ce11b972f0875ed3fcb581d010ad6384bad48e12",
+      "md5" : "46c9b6b84ecda5ebdfe4d62852aa523e",
+      "id" : "org.jfrog.test.gradle.publish:api:1.0-SNAPSHOT",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "61fce919969d134a4fa2ba4fd5bf151ea63fce13",
+      "md5" : "2d673736b993aa112fda47b9061e4e48",
+      "id" : "org.slf4j:slf4j-api:1.4.2",
+      "scopes" : [ "compileClasspath" ]
+    } ]
+  }, {
+    "id" : "org.jfrog.test.gradle.publish:api:1.0-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "jar",
+      "sha1" : "ce11b972f0875ed3fcb581d010ad6384bad48e12",
+      "md5" : "46c9b6b84ecda5ebdfe4d62852aa523e",
+      "name" : "api-1.0-SNAPSHOT.jar"
+    }, {
+      "type" : "properties",
+      "sha1" : "cbae36a1e156cdf1cdb802e9803ca95446507373",
+      "md5" : "3f671140eec33497f6b24d2658b47056",
+      "name" : "api-1.0-SNAPSHOT.properties"
+    }, {
+      "type" : "pom",
+      "sha1" : "76d4ec38478831f57f912976357a367bb314fbc8",
+      "md5" : "32782fc1974483c76dfd4317be52e834",
+      "name" : "api-1.0-SNAPSHOT.pom"
+    } ],
+    "excludedArtifacts" : [ ],
+    "dependencies" : [ {
+      "type" : "jar",
+      "sha1" : "5a073963bbfb95e3da99524906973b7650530997",
+      "md5" : "49089d6cefd28b0367014d211ffa6c96",
+      "id" : "org.jfrog.test.gradle.publish:shared:1.0-SNAPSHOT",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "16313e02a793435009f1e458fa4af5d879f6fb11",
+      "md5" : "237a8e845441bad2e535c57d985c8204",
+      "id" : "commons-lang:commons-lang:2.4",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "14dd208c9077c462b813ed41c21c57f6a8153694",
+      "md5" : "4cad3d21b85b369c8b00dfb84e270e02",
+      "id" : "org.apache.wicket:wicket:1.3.7",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "0ad6ae511ca4608a18317fcb19850fd113bb2ae8",
+      "md5" : "b0bf5f906af5a936992514ed087f1fa2",
+      "id" : "commons-io:commons-io:1.2",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "61fce919969d134a4fa2ba4fd5bf151ea63fce13",
+      "md5" : "2d673736b993aa112fda47b9061e4e48",
+      "id" : "org.slf4j:slf4j-api:1.4.2",
+      "scopes" : [ "compileClasspath" ]
+    } ]
+  }, {
+    "id" : "org.jfrog.test.gradle.publish:shared:1.0-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "jar",
+      "sha1" : "5a073963bbfb95e3da99524906973b7650530997",
+      "md5" : "49089d6cefd28b0367014d211ffa6c96",
+      "name" : "shared-1.0-SNAPSHOT.jar"
+    }, {
+      "type" : "properties",
+      "sha1" : "cbae36a1e156cdf1cdb802e9803ca95446507373",
+      "md5" : "3f671140eec33497f6b24d2658b47056",
+      "name" : "shared-1.0-SNAPSHOT.properties"
+    }, {
+      "type" : "pom",
+      "sha1" : "656a67db406a4df3d56d48cc65d2aed098666d0a",
+      "md5" : "f6ed24551fc7d66b57128f722f554d9f",
+      "name" : "shared-1.0-SNAPSHOT.pom"
+    } ],
+    "excludedArtifacts" : [ ],
+    "dependencies" : [ ]
+  } ],
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
