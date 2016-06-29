@@ -1,5 +1,5 @@
 node{
-    git 'https://github.com/romangurevitch/gradle-demo.git'
+    git 'https://github.com/romangurevitch/field-impeller.git'
 
     def gradleHome = tool 'G2'
     env.PATH = "${gradleHome}/bin:${env.PATH}"
