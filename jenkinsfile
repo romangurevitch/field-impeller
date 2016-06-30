@@ -1,4 +1,5 @@
 node{
+    stage 'Clone project'
     git 'https://github.com/romangurevitch/field-impeller.git'
 
     def gradleHome = tool 'G2'
